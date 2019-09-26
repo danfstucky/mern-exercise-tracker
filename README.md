@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Start Dev Server
+
+Navigate to /backend directory and run: `nodemon server` 
+Note: doesn't work in vscode powershell terminal.
+
 ## Available Scripts
 
 In the project directory, you can run:
